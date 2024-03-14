@@ -1,4 +1,5 @@
-let randomNumber = Math.floor(Math.random()*100) 
-    console.log(randomNumber) 
-    
-    
+function helloWorld() {
+    console.log('Hello, World!');
+  }
+  
+  helloWorld();
